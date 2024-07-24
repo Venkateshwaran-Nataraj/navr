@@ -9,7 +9,7 @@ function Home() {
 
       <img 
         src="https://miro.medium.com/v2/resize:fit:702/1*Ra02AqsQlC0KV229EvM98g.png" 
-        alt="picture" 
+        alt="analtic" 
     
       />
 

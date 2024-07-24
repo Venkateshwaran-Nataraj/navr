@@ -8,7 +8,7 @@ import pic from './pic.png';
 
      <img 
         src={pic} 
-        alt="Description of local image" 
+        alt="about" 
         width={1000}  height={500}     />
 
     </div>
